@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title><?php echo $title;?> :: AskEarly</title>
+<title><?php echo $title;?> :: DreamSense</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link rel="icon" type="image/x-icon" href="/favicon.ico"/>
@@ -25,7 +25,7 @@
 <input class=" button" type="submit" name="Submit" value="GO" />
 </form>
 -->
-<h1>AskEarly :: <?php echo $title;?></h1>
+<h1>DreamSense :: <?php echo $title;?></h1>
 <p>dreaming the impossible</p>
 </div>
 
