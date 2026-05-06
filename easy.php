@@ -62,4 +62,22 @@ like you want to take your life, please <strong>see someone and get help</strong
   to feel better can be an uphill battle by itself.
 </p>
 
+<p>May 5, 2026</p>
+
+<p>Found out I don't have Schizoaffective Disorder, instead I have <a class="red" href="mdd.php">Major
+    Depression with Psychosis</a>. Let's do a deep dive into what that is, shall we? Yeah I think we should!
+    From the <a href="https://medlineplus.gov/ency/article/000933.htm" target="_blank">Medline Plus</a> website.
+</p>
+
+<blockquote cite="https://medlineplus.gov/ency/article/000933.htm">
+<p>Major depression with psychotic features is a mental disorder in which a person has depression along with
+    loss of touch with reality (psychosis).</p>
+</blockquote>
+
+<p>Ah yes, the "loss of touch with reality" part really screams out to me from time to time. I forget that
+    part most of the time. A shame really, I'm sure I'm fun at parties. There's a thin line between the
+    two that doctors can misdiagnose you easily. Imagine that, a doctor screwing up from time to time.
+    It's like they're human or something.
+</p>
+
 <?php include_once("includes/footer.php");?>
