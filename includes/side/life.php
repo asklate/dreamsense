@@ -17,5 +17,5 @@
 <a href="crazy.php" title="Crazy">Crazy</a><br/>
 <a href="suicidal-ideation.php" title="Suicidal Ideation">Suicidal Ideation</a><br/>
 <a href="thoughts.php" title="Over Thinking">Over Thinking</a><br/>
-<a href="mdd.php" title="Major Depression with Psychotic Features">Major Depression with Psychotic Features</a>
+<a href="mdd.php" title="Major Depression with Psychosis">Major Depression with Psychosis</a>
 </p>

@@ -1,5 +1,5 @@
 <?php
-    $title = "Major Depression with Psychotic Features";
+    $title = "Major Depression with Psychosis";
     $sidebar = "life.php";
     include_once("includes/header.php");
 ?>
